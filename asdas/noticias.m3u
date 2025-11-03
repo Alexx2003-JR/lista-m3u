@@ -1,0 +1,36 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="PSN" tvg-logo="https://i.imgur.com/7i7GkSL.png",PSN
+https://srspsn.live/live/livestream.m3u8
+
+#EXTINF:-1 tvg-id="Ecovision" tvg-logo="https://imgur.com/a/pUlIJZX.png",Ecovisión
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+
+#EXTINF:-1 tvg-id="ChileChannel" tvg-logo="https://i.imgur.com/F1it6fh.png";Travel",Chile Channel
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+
+#EXTINF:-1 tvg-id="TVParaense" tvg-logo="https://duckduckgo.com/i/e408ea02.png",TV Paraense
+https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
+
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",National Geographic 
+http://38.183.182.166:8000/play/a0vd/index.m3u8
+
+#EXTINF:-1 tvg-id="UMSATVULP" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412" http-referrer="https://tvu.umsa.bo/en-vivo",UMSA TVU LP
+
+#EXTINF:-1 tvg-id="AFVEspanol",AFV
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telemundon",Telemundo Noticias Ahora
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="Telemundonc",Telemundo Noticias California
+https://amg00884-nbcuniversal-nbctelemundowest-xumo-xc0n5.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telemundonf",Telemundo Noticias Florida
+https://amg00884-nbcuniversal-nbctelemundoflorida-xumo-atn0m.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telemundonn",Telemundo Noticias Noreste
+https://amg00884-nbcuniversal-nbctelemundonortheast-xumo-ok3ha.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telemundont",Telemundo Noticias Texas
+https://amg00884-nbcuniversal-nbctelemundotexas-xumo-eeb56.amagi.tv/playlist.m3u8
