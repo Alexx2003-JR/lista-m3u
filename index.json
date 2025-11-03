@@ -1,1 +1,15 @@
+{
+  "Deportes": "https://raw.githubusercontent.com/Alexx2003-JR/lista-m3u/main/deportes.m3u",
+  "Películas": "https://raw.githubusercontent.com/Alexx2003-JR/lista-m3u/main/cine.m3u",
+  "Música": "https://raw.githubusercontent.com/Alexx2003-JR/lista-m3u/main/musica.m3u",
+  "Noticias": "https://raw.githubusercontent.com/Alexx2003-JR/lista-m3u/main/noticias.m3u",
+  "COL": "https://raw.githubusercontent.com/Alexx2003-JR/lista-m3u/refs/heads/main/COL.m3u",
+  "Mex": "https://raw.githubusercontent.com/Alexx2003-JR/lista-m3u/refs/heads/main/Mex.m3u",
+  "VENZ": "https://raw.githubusercontent.com/Alexx2003-JR/lista-m3u/refs/heads/main/VENZ.m3u",
+  "Educativos": "https://raw.githubusercontent.com/Alexx2003-JR/lista-m3u/main/educativo.m3u",
+  "Infantil": "https://raw.githubusercontent.com/Alexx2003-JR/lista-m3u/main/niños.m3u",
+  "Series": "https://raw.githubusercontent.com/Alexx2003-JR/lista-m3u/main/series.m3u",
+  "Religioso": "https://raw.githubusercontent.com/Alexx2003-JR/lista-m3u/main/religion.m3u",
+  "Crimenes": "https://raw.githubusercontent.com/Alexx2003-JR/lista-m3u/main/tcrime.m3u"
 
+}
